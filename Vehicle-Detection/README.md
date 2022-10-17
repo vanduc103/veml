@@ -1,4 +1,4 @@
-# Detection Models of BDD100K
+# Detection Models for Object Detection Datasets, retrieved from BDD100K github
 
 The object detection task involves localization (predicting a bounding box for each object) and classification (predicting the object category).
 
