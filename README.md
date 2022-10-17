@@ -1,2 +1,2 @@
 <meta name="robots" content="noindex">
-VeML: a Version management system for End-to-end Machine learning Lifecycle
+VeML: A Version Management System for End-to-end Machine Learning Lifecycle
